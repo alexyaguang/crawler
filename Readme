@@ -1,0 +1,2 @@
+js.js is crawler, and produce 35 .json files of data.
+read.js will take the files and input the data into mongodb.

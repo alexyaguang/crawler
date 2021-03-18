@@ -95,7 +95,7 @@ const craw = (link,filename)=>{
 
 	)
 	}
-//console.log(craw(li))
+//get data from jobs' information from 'link'(e.g.indeed), and save those data in to 'file'
 
 var web_list=['']
 for (var i=1,end=35;i<end;i++){
